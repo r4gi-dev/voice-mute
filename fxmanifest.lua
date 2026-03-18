@@ -1,9 +1,9 @@
 fx_version 'cerulean'
 game 'gta5'
 
-name 'mic-toggle'
+name 'voice-mute'
 description 'Toggle mic mute using pma-voice'
-author 'you'
+author 'r4gi'
 
 client_scripts {
     'client.lua'
